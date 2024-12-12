@@ -1,0 +1,16 @@
+title rendered on https://sequencediagram.org/
+
+participant Main Program
+participant Microservice
+
+participant Third Party API
+
+Main Program->Microservice:Launch Microservice (BEFORE requesting data)
+note over Main Program,Microservice:(Alternately, launch the microservice \nbefore the main program manually)
+
+Main Program->Microservice:Request data (sending a zipcode)
+Microservice->Third Party API:Microservice requests data from API
+Microservice<--Third Party API:API returns large population of data
+
+
+Main Program<--Microservice:Microservice formats data and\n returns it to main program
