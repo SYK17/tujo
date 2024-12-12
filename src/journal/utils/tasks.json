@@ -1,0 +1,81 @@
+{
+  "11.05.24": [
+    "this is a sample task.",
+    "press `t` to add a new task.",
+    "x press `x` to mark me 'done'.",
+    "now press `u` to undo.",
+    "some task",
+    "hello"
+  ],
+  "11.06.24": [
+    "review tujo code",
+    "x begin next assignment",
+    "update resume for NoA",
+    "I. redesign switch store"
+  ],
+  "11.11.24": [
+    "x hi"
+  ],
+  "11.13.24": [
+    "x Implement basic shuffle",
+    "x Implement sequence logging and ensured uniqueness",
+    "x Implement weighted shuffle",
+    "Review Tujo code",
+    "Update resume for NoA Intern"
+  ],
+  "11.22.24": [
+    "x testing"
+  ],
+  "11.25.24": [
+    "x hello"
+  ],
+  "11.26.24": [
+    "x hello"
+  ],
+  "11.27.24": [
+    "x Test task.",
+    "x Another one.",
+    "x and another",
+    "x hello"
+  ],
+  "11.29.24": [
+    "x create calendar microservice"
+  ],
+  "11.30.24": [
+    "x begin data microservice",
+    "x hello"
+  ],
+  "12.01.24": [
+    "x review code",
+    "x TODO: make data 'refresh'",
+    "TODO: async \"quotes\"",
+    "x hello"
+  ],
+  "12.02.24": [
+    "x fix about nav moving after \"refresh\""
+  ],
+  "12.03.24": [
+    "TODO: auto reset timer when it reaches 0"
+  ],
+  "12.04.24": [
+    "x hello i am task"
+  ],
+  "12.06.24": [
+    "hello"
+  ],
+  "12.12.24": [
+    "x Swap nav and footer location",
+    "x Add ^p for pallete in nav guide",
+    "x remove top quote",
+    "update github"
+  ],
+  "12.09.24": [
+    "hi, i'm a task"
+  ],
+  "12.10.24": [
+    "x hello friends"
+  ],
+  "12.07.24": [
+    "x you complete me"
+  ]
+}
