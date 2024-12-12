@@ -1,1 +1,14 @@
-src/microservices/shuffle
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
