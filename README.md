@@ -1,6 +1,6 @@
-# Tujo - Terminal User Journal (WIP)
+# Tujo - Terminal User Journal
 
-Tujo is a minimalist terminal-based journal and task management application built with Python. It combines the simplicity of plain text journaling with the power of terminal-based interfaces.
+Tujo is a terminal-based journal and task management application built with the [Textual framework](https://textual.textualize.io). It combines the simplicity of plain text journaling with the power of terminal-based interfaces.
 
 ![Demo](./demo_hq.gif)
 
