@@ -275,7 +275,7 @@ class HomeScreen(BaseScreen):
                         task_text, task_class = self._format_task(task, i)
                         yield Static(task_text, classes=task_class)
         # Footer
-        with Container(id="about-footer"):
+        with Container(id="footer"):
             yield Static(
                 "[white]t[/] new task    [white]x[/] done    [white]u[/] to undo",
                 classes="footer-text",

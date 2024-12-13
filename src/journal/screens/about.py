@@ -142,6 +142,14 @@ class AboutScreen(BaseScreen):
                     for line in current_content:
                         yield Static(line, classes="task")
 
+        # Footer
+        yield Container(id="about-footer")
+        yield Static(
+            "version 0.1.0",
+            classes="version-text",
+            markup=True
+        )
+
         # Navigation help
         yield Static(
             "[white]↕[/] or [white]jk[/] navigate",
@@ -149,10 +157,3 @@ class AboutScreen(BaseScreen):
             markup=True
         )
 
-        # Footer - intentionally empty to maintain layout
-        yield Container(id="about-footer")
-        yield Static(
-            "version 0.1.0",
-            classes="footer-text",
-            markup=True
-        )
