@@ -4,7 +4,7 @@ Tujo is a minimalist terminal-based journal and task management application buil
 
 ## Demo
 
-[Demo](https://github.com/user-attachments/assets/c197c4f1-8c0e-453f-87cf-8a971d145f92)
+![Demo](./demo.gif)
 
 ## Features
 
