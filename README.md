@@ -2,6 +2,10 @@
 
 Tujo is a minimalist terminal-based journal and task management application built with Python. It combines the simplicity of plain text journaling with the power of terminal-based interfaces.
 
+## Demo
+
+[Demo](https://github.com/user-attachments/assets/b6f2aad7-1aa5-437a-98bb-9d9ff78b3c4a)
+
 ## Features
 
 - **Task Management**: Create, complete, and track daily tasks
