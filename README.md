@@ -16,18 +16,18 @@ Tujo is a terminal-based journal and task management application built with the 
 
 ## Navigation
 
-- `h`: Home screen
-- `p`: Pomodoro timer
-- `d`: Data analytics
-- `a`: About section
-- `t`: Create new task
-- `x`: Complete task
-- `u`: Undo last action
-- `↑/k`: Move up
-- `↓/j`: Move down
+- `h`    : Home screen
+- `p`    : Pomodoro timer
+- `d`    : Data analytics
+- `a`    : About section
+- `t`    : Create new task
+- `x`    : Complete task
+- `u`    : Undo last action
+- `↑/k`  : Move up
+- `↓/j`  : Move down
 - `Enter`: Toggle task selection
-- `^c`: Quit application
-- `^p`: Command palette
+- `^c`   : Quit application
+- `^p`   : Command palette
 
 ## Project Structure
 

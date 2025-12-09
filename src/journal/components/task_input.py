@@ -2,8 +2,9 @@ from textual.widgets import Input
 
 
 class TaskInput(Input):
-    """A reusable task input widget that handles task creation across all log screens."""
-    
+    """A reusable task input widget that handles task creation
+    across all log screens."""
+
     DEFAULT_CSS = """
     TaskInput {
         border: none;
@@ -12,18 +13,18 @@ class TaskInput(Input):
         padding: 0 2;
         background: $boost;
     }
-    
+
     TaskInput:focus {
         border: none;
     }
     """
-    
+
     def __init__(self):
         super().__init__(
             placeholder="Enter a task...",
             id="task-input"
         )
-    
+
     def _on_key(self, event) -> None:
         if event.key == "escape":
             self.remove()

@@ -39,7 +39,7 @@ class AboutScreen(BaseScreen):
                 "track your daily tasks and thoughts.",
                 "tujo aims to keep things simple and focused.",
                 "\n",
-                "terminal + journal = tujo",
+                "beauty in brevity",
             ],
             "keys": [
                 "h.......home",
@@ -58,7 +58,7 @@ class AboutScreen(BaseScreen):
             "tips": [
                 "1. keep tasks atomic and actionable",
                 "2. review your tasks daily",
-                "3. there is beauty in brevity"
+                "3. remember why you started"
             ]
         }
 

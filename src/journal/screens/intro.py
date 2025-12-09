@@ -58,7 +58,7 @@ class IntroScreen(Screen):
         yield Center(
             Middle(
                 Static("Tujo.", id="title"),
-                Static("a task journal to organize life simply", id="subtitle")
+                Static("the terminal user journal.", id="subtitle")
             )
         )
         yield Static("press any key to continue...", id="prompt")
