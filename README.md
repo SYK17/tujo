@@ -31,9 +31,4 @@ Tujo is a terminal-based journal and task management application built with the 
 
 ## Project Structure
 
-The application follows a modular architecture with:
-- Core journal functionality in `src/journal`
-- Microservices in `src/microservices`
-- Screen layouts in `screens` directory
-- Components for reusable UI elements
-- Utility functions in `utils`
+The application follows a hexagonal monolith architecture.
